@@ -13,9 +13,9 @@ Clone the development version:
     $ pip install -r requirements.txt
 ```
 
-# Documentation
+# [Documentation](https://AstroML.readthedocs.io/en/latest/?)
 
-The tutorials have been uploaded to a [ReadTheDocs](https://AstroML.readthedocs.io/en/latest/?).
+The tutorials have been uploaded through [Read the Docs](https://AstroML.readthedocs.io/en/latest/?).
 
 
 # How to Contribute?
