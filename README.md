@@ -15,7 +15,7 @@ Clone the development version:
 
 # [Documentation](https://AstroML.readthedocs.io/en/latest/?)
 
-The tutorials have been uploaded through [Read the Docs](https://AstroML.readthedocs.io/en/latest/?).
+The tutorials are maintained through [Read the Docs](https://AstroML.readthedocs.io/en/latest/?).
 
 
 # How to Contribute?
