@@ -1,19 +1,23 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/LGPL-3.0)
 
-# ml-engine: Machine Learning Engine 
-This is an open-source program for creating machine learning programs. The procedures ml-engine employes are computationally intensive as the program will not only identify the ideal engine to use, but will also iterate over many architectures and hyperparameters so as to increase the probability of optimal convergence. 
+# AstroML: Machine Learning Tutorials for Astronomy Research
+AstroML is a compilation of machine learning tutorials and examples, all in the context of astronomy research and astrophysical object classification. The examples include working with lightcurves as well as single and multi-band images.
+
+**NOTE:** This is a private project led by an astronomy PhD student, and is not related to the pypi `AstroML <https://pypi.org/project/astroML/>`_ program! 
 
 # Installation
-
+Clone the development version:    
 ```
-    $ pip install ml-engine
+    $ git clone https://github.com/Professor-G/AstroML.git
+    $ python setup.py install
+    $ pip install -r requirements.txt
 ```
 
-# [Documentation](https://ml_engine.readthedocs.io/en/latest/?)
+# [Documentation]
 
-For technical details and an example of how to implement ml-engine, check out the [Documentation](https://ml_engine.readthedocs.io/en/latest/?).
+The tutorials have been uploaded to a ReadTheDocs(https://AstroML.readthedocs.io/en/latest/?).
 
 
 # How to Contribute?
 
-Want to contribute? Bug detections? Comments? Suggestions? Please email: danielgodinez123@gmail.com
+Want to contribute? Bug detections? Comments? Suggestions? Please email: godines@nmsu.edu
