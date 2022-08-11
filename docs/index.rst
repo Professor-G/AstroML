@@ -7,16 +7,11 @@ Welcome to AstroML!
 ===============================
 AstroML is a compilation of machine learning tutorials and examples, all in the context of astronomy research and astrophysical object classification. The examples include working with lightcurves as well as single and multi-band images.
 
+**NOTE:** This is a private project led by an astronomy PhD student, and is not related to the pypi `AstroML <https://pypi.org/project/astroML/>`_ program! 
 
 Installation
 ==================
-The source code and accompanying data can be installed in your local machine via pip:
-
-.. code-block:: bash
-
-    pip install AstroML
-
-You can also clone the development version:    
+The source code and accompanying data can be installed in your local machine by cloning the development version:    
 
 .. code-block:: bash
 
