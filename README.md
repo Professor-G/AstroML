@@ -13,11 +13,11 @@ Clone the development version:
     $ pip install -r requirements.txt
 ```
 
-# [Documentation]
+# Documentation
 
 The tutorials have been uploaded to a [ReadTheDocs](https://AstroML.readthedocs.io/en/latest/?).
 
 
 # How to Contribute?
 
-Want to contribute? Bug detections? Comments? Suggestions? Please email: godines@nmsu.edu
+Want to contribute? Bug detections? Comments? Suggestions? Please email me: godines@nmsu.edu
