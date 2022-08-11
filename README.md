@@ -3,7 +3,7 @@
 # AstroML: Machine Learning Tutorials for Astronomy Research
 AstroML is a compilation of machine learning tutorials and examples, all in the context of astronomy research and astrophysical object classification. The examples include working with lightcurves as well as single and multi-band images.
 
-**NOTE:** This is a private project led by an astronomy PhD student, and is not related to the pypi `AstroML <https://pypi.org/project/astroML/>`_ program! 
+**NOTE:** This is a private project led by an astronomy PhD student, and is not related to the pypi [AstroML](https://pypi.org/project/astroML/) program! 
 
 # Installation
 Clone the development version:    
@@ -15,7 +15,7 @@ Clone the development version:
 
 # [Documentation]
 
-The tutorials have been uploaded to a ReadTheDocs(https://AstroML.readthedocs.io/en/latest/?).
+The tutorials have been uploaded to a [ReadTheDocs](https://AstroML.readthedocs.io/en/latest/?).
 
 
 # How to Contribute?
