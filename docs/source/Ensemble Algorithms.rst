@@ -1,6 +1,6 @@
-.. _Introduction:
+.. _Ensemble:
 
-Introduction to Machine Learning
+Ensemble Algorithms
 ==================
 
 
